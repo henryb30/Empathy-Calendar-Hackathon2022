@@ -1,1 +1,1 @@
-# Empathy-Calender-Hackathon2022
+# Empathy-Calendar-Hackathon2022
