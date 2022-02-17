@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "googleapis": "^95.0.0",
+    "react-google-calendar-api": "^1.5.2",
+    "slack-gcal-intergration": "github:jacekbj/gcal-slack-integration"
+  }
+}
